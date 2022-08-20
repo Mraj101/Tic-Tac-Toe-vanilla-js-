@@ -162,15 +162,15 @@ nav ul{
     }
 
 .tictaccontainer {
-    height: 50vh;
+    height: 80vh;
     width: 85%;
     align-items: center;
     justify-content: center;
     flex-direction: column;
 }
 .tictac{
-    width: 55%;
-    height: 30vh;
+    width: 60%;
+    height: 40%;
 }
 .box{
     font-size: 18px;
@@ -178,7 +178,7 @@ nav ul{
 .img>img{
     /* width: 15vh; */
     width: 0;
-    transition: width 1.5s ease-in-out;
+    transition: width 1s ease-in-out;
 }
 }
 
